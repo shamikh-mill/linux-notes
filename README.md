@@ -1,9 +1,9 @@
 # linux-notes
 
 Create a folder with a subfolder. 
-````
+
 mkdir -p workspace/folder/subfolder
-````
+
 This creates both folder and the subfolder inside it. 
 
 ls -lh 
@@ -107,6 +107,9 @@ Used for changing data
 sed s/Orange/Red/ data.txt 
 Substitutes a string with another string in a file. 
 
+sort -k2n data.txt 
+sort- use K to identify a specific key to sort by. 
+- k2n sorts by the number values (numeric sort) 
+- k2 sorts by first character 
 
-sort- use K to 
 
