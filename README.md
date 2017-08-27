@@ -116,3 +116,10 @@ sort- use K to identify a specific key to sort by.
 Vim - i or o to get into insertion mode, arrow keys for navigation 
 Use escape to get into command mode 
 :q! to quit without saving 
+
+tar files- way of compressing individual files into one 
+
+ls 1>filelist.txt 
+Writes stdout to a file instead of displaying on screen 
+
+> is redirect  
