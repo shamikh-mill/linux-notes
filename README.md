@@ -113,3 +113,6 @@ sort- use K to identify a specific key to sort by.
 - k2 sorts by first character 
 
 
+Vim - i or o to get into insertion mode, arrow keys for navigation 
+Use escape to get into command mode 
+:q! to quit without saving 
